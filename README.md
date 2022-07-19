@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/bd5af7cff6724639b59579ccb552566ded454862/icons/android%20svg.svg" alt="android" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/52284dae1a6df436492828824c0501afb99c6a9c/icons/android.svg" alt="android" width="40" height="40"/> 
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
