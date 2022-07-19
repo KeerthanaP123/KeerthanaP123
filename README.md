@@ -73,6 +73,7 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/itsmeshibintmz/KeerthanaP123/blob/main/icons/postgresql.png?raw=true" alt="postgresql" height="30"/> 
     </a> 
+</p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/> 
     </a> 
