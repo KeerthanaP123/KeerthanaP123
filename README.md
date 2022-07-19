@@ -82,10 +82,8 @@
     </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthanap123&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
+📈 &nbsp; My Github Stats
+<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=keerthanap123&show_icons=true&&line_height=25&width=20&bg_color=0d1117&text_color=ffffff" alt="keerthana p" /> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanap123&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
