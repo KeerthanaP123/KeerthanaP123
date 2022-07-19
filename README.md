@@ -30,32 +30,35 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/c25e1c62e82e31ec25ea5e8ff1924fd766a0b54d/icons/aws.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/599c866247c69fca511c30d3ab68892509a824ee/icons/djago.svg" alt="django" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/c25e1c62e82e31ec25ea5e8ff1924fd766a0b54d/icons/aws.svg" alt="aws" width="40" height="40"/> 
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/f46275673b5afb013f479a3e730169dc44e70374/icons/js.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/itsmeshibintmz/KeerthanaP123/blob/main/icons/php.png?raw=true" alt="php" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/599c866247c69fca511c30d3ab68892509a824ee/icons/djago.svg" alt="django" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/itsmeshibintmz/KeerthanaP123/blob/main/icons/linux.png?raw=true" alt="linux" width="40" height="40"/> 
@@ -65,9 +68,6 @@
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/itsmeshibintmz/KeerthanaP123/blob/main/icons/php.png?raw=true" alt="php" width="40" height="40"/> 
     </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/itsmeshibintmz/KeerthanaP123/blob/main/icons/postgresql.png?raw=true" alt="postgresql" width="40" height="40"/> 
