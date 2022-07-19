@@ -1,7 +1,4 @@
-<center>
-
-# Hi, I'm Keerthana P <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.ppglitch.me/badge?page_id=KeerthanaP123.KeerthanaP123&style=default)
-</center>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25>, I'm Keerthana P</h1>
 
 <h3 align="center"> Iam a MCA student at Amal jyothi College Of Engineering,Kottayam.</h3>
 
