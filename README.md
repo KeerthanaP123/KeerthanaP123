@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/> 
     </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -51,6 +51,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/itsmeshibintmz/KeerthanaP123/f46275673b5afb013f479a3e730169dc44e70374/icons/js.svg" alt="javascript" height="30"/> 
     </a>
+</p>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/itsmeshibintmz/KeerthanaP123/blob/main/icons/php.png?raw=true" alt="php" height="30"/> 
     </a> 
